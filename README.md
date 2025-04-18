@@ -2,6 +2,10 @@
 
 A simple and intuitive Expense Tracker application built using React JS and CSS, designed to help users manage their expenses and income effectively.
 
+## Industry Practices Project
+
+This application was developed as part of the Industry Practices assessment group project at Thakur College of Engineering. Team members Malhar Sudku (56), Vansh Surti (57), and Harsh Tiwari (58) actively contributed to the project's repository.
+
 ## Features
 
 - Add and delete transactions
